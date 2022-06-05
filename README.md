@@ -1,2 +1,4 @@
 # beacademy-devstart-introducaoaophp
-Exercicios e Explicações da aulas de introdução ao php da be.academy
+Exercicios propostos na aula:
+
+#[Exercicio 1 calculadora](./aulas02/resolucao_exercicio.php)
